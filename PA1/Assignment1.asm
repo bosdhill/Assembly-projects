@@ -68,6 +68,6 @@ mov edx, OFFSET str5
 call writeString
 call Crlf
 
-	exit
+  exit
 main endp
 end main
