@@ -10,7 +10,7 @@ INCLUDE Irvine32.inc
 .data
 ; prompt strings
 enterPrompt BYTE "Enter a number and all the prime "
-						BYTE "numbers from 1 to your number will be displayed",0
+	    BYTE "numbers from 1 to your number will be displayed",0
 primePrompt BYTE "Primes found: ",0
 
 ; variables
